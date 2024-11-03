@@ -1,3 +1,3 @@
 UTS Pemrograman 1
-<div>Muhamad Aliyudin</div>
-<div>221011400108</div>
+<div>Abdul Jabbar</div>
+<div>221011400107</div>
